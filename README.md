@@ -1,11 +1,14 @@
 # E-Commerce Web Automation — Selenium WebDriver + Python
+Capstone Assignment 1: End-to-end automation of a public e-commerce demo
+site (OpenCart demo — https://tutorialsninja.com/demo/) using the
+Page Object Model (POM) design pattern.
 
 ## **🎥 Project Video Demonstration**
 
 [▶️ Watch Project Video](https://drive.google.com/file/d/1AUknmQfgIVlgE7nL3TIUxPnU6T6F1QBo/view?usp=sharing)
-Capstone Assignment 1: End-to-end automation of a public e-commerce demo
-site (OpenCart demo — https://tutorialsninja.com/demo/) using the
-Page Object Model (POM) design pattern.
+
+
+
 
 ## Automated Flow
 
